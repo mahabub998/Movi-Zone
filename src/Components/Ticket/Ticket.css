@@ -1,0 +1,9 @@
+.ticket_form{
+    width: 80%;
+    
+}
+.background_color{
+background-image: url(../../image/darkBg.jpg);
+width: 100%;
+height: 400px;
+}
